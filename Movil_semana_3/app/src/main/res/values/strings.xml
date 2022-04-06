@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Movil_semana_3</string>
+    <string name="btn_enviar">Registrar</string>
+    <string name="text_ingrese_email">Ingrese Email</string>
+</resources>
